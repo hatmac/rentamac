@@ -1,7 +1,7 @@
 # rentamac
-[HatMac](htps://hatmac.com) — Dedicated Mac Rental, Remotely
+[HatMac](https://hatmac.com) — Dedicated Mac Rental, Remotely
 
-[HatMac](htps://hatmac.com) provides dedicated Mac rental services with remote access, giving developers, businesses, and teams the flexibility to use real Apple hardware without the upfront cost of purchasing a Mac.
+[HatMac](https://hatmac.com) provides dedicated Mac rental services with remote access, giving developers, businesses, and teams the flexibility to use real Apple hardware without the upfront cost of purchasing a Mac.
 
 Whether you're developing iOS and macOS applications, building and testing software with Xcode, running CI/CD pipelines, or managing macOS-specific workloads, HatMac makes it easier to access dedicated Mac machines remotely from anywhere.
 
